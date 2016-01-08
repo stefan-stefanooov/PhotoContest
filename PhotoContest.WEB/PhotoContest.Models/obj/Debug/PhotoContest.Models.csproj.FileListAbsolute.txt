@@ -1,0 +1,14 @@
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\PhotoContest.Models.dll.config
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\PhotoContest.Models.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\PhotoContest.Models.pdb
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\EntityFramework.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\EntityFramework.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\obj\Debug\PhotoContest.Models.csprojResolveAssemblyReference.cache
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\obj\Debug\PhotoContest.Models.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Models\obj\Debug\PhotoContest.Models.pdb

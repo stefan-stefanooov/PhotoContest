@@ -1,0 +1,16 @@
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\PhotoContest.Data.dll.config
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\PhotoContest.Data.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\PhotoContest.Data.pdb
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\EntityFramework.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\PhotoContest.Models.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\PhotoContest.Models.pdb
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\EntityFramework.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\obj\Debug\PhotoContest.Data.csprojResolveAssemblyReference.cache
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\obj\Debug\PhotoContest.Data.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\obj\Debug\PhotoContest.Data.pdb

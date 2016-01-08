@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoContest.WEB", "PhotoContest.WEB\PhotoContest.WEB.csproj", "{DED84D9E-2849-4806-A9C3-1FE043DAFEBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoContest.Models", "PhotoContest.Models\PhotoContest.Models.csproj", "{1CD7B265-2C74-47B2-B4B1-62772F2C8E13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoContest.Data", "PhotoContest.Data\PhotoContest.Data.csproj", "{08E67205-3ED5-46BB-AFDE-48B5774EC894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED84D9E-2849-4806-A9C3-1FE043DAFEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED84D9E-2849-4806-A9C3-1FE043DAFEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED84D9E-2849-4806-A9C3-1FE043DAFEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED84D9E-2849-4806-A9C3-1FE043DAFEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD7B265-2C74-47B2-B4B1-62772F2C8E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD7B265-2C74-47B2-B4B1-62772F2C8E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD7B265-2C74-47B2-B4B1-62772F2C8E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD7B265-2C74-47B2-B4B1-62772F2C8E13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08E67205-3ED5-46BB-AFDE-48B5774EC894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08E67205-3ED5-46BB-AFDE-48B5774EC894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08E67205-3ED5-46BB-AFDE-48B5774EC894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08E67205-3ED5-46BB-AFDE-48B5774EC894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
