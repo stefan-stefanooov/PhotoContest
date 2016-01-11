@@ -11,7 +11,7 @@
 
         public ActionResult Index()
         {
-            
+            var contests = Data.Contests.All();
             return View();
         }
 

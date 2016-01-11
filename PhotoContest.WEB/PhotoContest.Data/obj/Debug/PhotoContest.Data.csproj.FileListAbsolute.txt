@@ -14,3 +14,5 @@ C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoCo
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\obj\Debug\PhotoContest.Data.csprojResolveAssemblyReference.cache
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\obj\Debug\PhotoContest.Data.dll
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\obj\Debug\PhotoContest.Data.pdb
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\AutoMapper.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.Data\bin\Debug\AutoMapper.xml

@@ -93,3 +93,5 @@ C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoCo
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.xml
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.Web.Common.xml
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.Web.Mvc.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\AutoMapper.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\AutoMapper.xml

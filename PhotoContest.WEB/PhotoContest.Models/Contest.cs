@@ -38,6 +38,6 @@
         [Required]
         public bool IsActive { get; set; }
 
-        public virtual ICollection<Picture> Pictures { get; set; }
+        public virtual ICollection<Photo> Pictures { get; set; }
     }
 }

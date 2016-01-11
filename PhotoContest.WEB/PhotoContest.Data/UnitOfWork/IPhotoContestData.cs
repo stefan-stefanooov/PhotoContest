@@ -16,7 +16,7 @@ namespace PhotoContest.Data.UnitOfWork
 
         IRepository<File> Files { get; }
 
-        IRepository<Picture> Pictures { get; }
+        IRepository<Photo> Photos { get; }
 
         void SaveChanges();
     }
