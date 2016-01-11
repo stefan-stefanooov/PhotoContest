@@ -33,6 +33,30 @@ namespace PhotoContest.Data.UnitOfWork
             }
         }
 
+        public IRepository<Contest> Contests
+        {
+            get
+            {
+                return this.GetRepository<Contest>();
+            }
+        }
+
+        public IRepository<Photo> Photos
+        {
+            get
+            {
+                return this.GetRepository<Photo>();
+            }
+        }
+
+        public IRepository<File> Files
+        {
+            get
+            {
+                return this.GetRepository<File>();
+            }
+        }
+
         public IUserStore<User> UserStore
         {
             get

@@ -86,3 +86,10 @@ C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoCo
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\PhotoContest.Models.dll
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\PhotoContest.Data.pdb
 C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\PhotoContest.Models.pdb
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.Web.Common.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.Web.Mvc.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\WebActivatorEx.dll
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.Web.Common.xml
+C:\Users\Stefan Stefanov\Documents\SoftUni\PhotoContest\PhotoContest.WEB\PhotoContest.WEB\bin\Ninject.Web.Mvc.xml
