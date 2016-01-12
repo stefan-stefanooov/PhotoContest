@@ -21,18 +21,25 @@
         public string Description { get; set; }
 
         [Required]
+        [Display(Name = "Reward Strategy")]
         public RewardStrategy RewardStrategy { get; set; }
 
         public int? NumberOfWinners { get; set; }
 
         [Required]
+        [Display(Name = "Voting Strategy")]
         public VotingStrategy VotingStrategy { get; set; }
 
         public virtual ICollection<User> CommitteeList { get; set; }
 
+        [Required]
+        [Display(Name = "Participation Strategy")]
+        public ParticipationStrategy ParticipationStrategy { get; set; }
+
         public virtual ICollection<User> ParticipantsList { get; set; }
 
         [Required]
+        [Display(Name = "Deadline Strategy")]
         public DeadlineStrategy DeadlineStrategy { get; set; }
 
         [Required]
