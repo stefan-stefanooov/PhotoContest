@@ -24,6 +24,7 @@
         [Display(Name = "Reward Strategy")]
         public RewardStrategy RewardStrategy { get; set; }
 
+        [Range(1, 10, ErrorMessage = "Number of winners should be between 1 and 10")]
         public int? NumberOfWinners { get; set; }
 
         [Required]

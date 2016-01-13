@@ -5,6 +5,9 @@ using System.Web;
 using System.Web.Mvc;
 using PhotoContest.Data.UnitOfWork;
 using PhotoContest.WEB.Models.BindModels;
+using PhotoContest.WEB.Models.ViewModels;
+using AutoMapper;
+using PhotoContest.Models;
 
 namespace PhotoContest.WEB.Controllers
 {
