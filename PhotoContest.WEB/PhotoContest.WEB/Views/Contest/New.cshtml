@@ -22,28 +22,36 @@
     </div>
 
     <hr />
-        <div class="form-group">
+        <div class="form-group, deadlineStrategy">
             @Html.LabelFor(m => m.DeadlineStrategy, new { @class = "col-md-2 control-label" })
             <div class="col-md-10">
-                @Html.RadioButtonFor(m => Model.DeadlineStrategy, PhotoContest.Models.Enums.DeadlineStrategy.ByTime)
+                @Html.RadioButtonFor(m => Model.DeadlineStrategy, PhotoContest.Models.Enums.DeadlineStrategy.ByTime, new { @id = "byTime" })
                 <label for=@PhotoContest.Models.Enums.DeadlineStrategy.ByTime>@PhotoContest.Models.Enums.DeadlineStrategy.ByTime</label>
-                @Html.RadioButtonFor(m => Model.DeadlineStrategy, PhotoContest.Models.Enums.DeadlineStrategy.ByNumber)
+                @Html.RadioButtonFor(m => Model.DeadlineStrategy, PhotoContest.Models.Enums.DeadlineStrategy.ByNumber, new { @id = "byNumber" })
                 <label for=@PhotoContest.Models.Enums.DeadlineStrategy.ByNumber>@PhotoContest.Models.Enums.DeadlineStrategy.ByNumber</label>
+            </div>
+            <div id="numberOfParticipants">
+                @Html.LabelFor(m => m.NumberOfParticipants, new { @class = "col-md-6 control-label" })
+                @Html.EditorFor(model => model.NumberOfParticipants, new { @class = "form-control" })
+            </div>
+            <div id="finishTime">
+                @Html.LabelFor(m => m.FinishTime, new { @class = "col-md-6 control-label" })
+                @Html.EditorFor(model => model.FinishTime, new { @class = "form-control" })
             </div>
         </div>
         <hr />
 
-        <div class="form-group">
+        <div class="form-group, rewardStrategy">
             @Html.LabelFor(m => m.RewardStrategy, new { @class = "col-md-2 control-label" })
             <div class="col-md-10">
-                @Html.RadioButtonFor(m => Model.RewardStrategy, PhotoContest.Models.Enums.RewardStrategy.Single)
+                @Html.RadioButtonFor(m => Model.RewardStrategy, PhotoContest.Models.Enums.RewardStrategy.Single, new { @id="single"})
                 <label for=@PhotoContest.Models.Enums.RewardStrategy.Single>@PhotoContest.Models.Enums.RewardStrategy.Single</label>
-                @Html.RadioButtonFor(m => Model.RewardStrategy, PhotoContest.Models.Enums.RewardStrategy.Multiple)
+                @Html.RadioButtonFor(m => Model.RewardStrategy, PhotoContest.Models.Enums.RewardStrategy.Multiple, new { @id= "multiple" })
                 <label for=@PhotoContest.Models.Enums.RewardStrategy.Multiple>@PhotoContest.Models.Enums.RewardStrategy.Multiple</label>
             </div>
-            <div>
+            <div id="numberOfWinners">
                 @Html.LabelFor(m => m.NumberOfWinners, new { @class = "col-md-6 control-label" })
-                @Html.EditorFor(model => model.NumberOfWinners, new { @class = "form-control" })
+                @Html.EditorFor(model => model.NumberOfWinners, new { @class = "form-control"})
             </div>
         </div>
         <hr />
@@ -65,5 +73,7 @@
                     </div>
                 </div>
 }
-
-
+@section scripts
+{
+    <script src="~/Scripts/newContest.js"></script>
+}

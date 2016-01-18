@@ -18,14 +18,27 @@ namespace PhotoContest.WEB.Models.BindModels
         public string Description { get; set; }
 
         [Required]
+        [Display(Name = "Reward Strategy")]
         public RewardStrategy RewardStrategy { get; set; }
 
+        [Display(Name = "Number of Winners")]
         public int? NumberOfWinners { get; set; }
 
         [Required]
+        [Display(Name = "Voting Strategy")]
         public VotingStrategy VotingStrategy { get; set; }
 
+        public ICollection<int> UserIds { get; set; }
+
         [Required]
+        [Display(Name = "Deadline Strategy")]
         public DeadlineStrategy DeadlineStrategy { get; set; }
+
+        [Display(Name = "Finish Time")]
+        [DataType(DataType.Date)]
+        public Nullable<System.DateTime> FinishTime { get; set; }
+
+        [Display(Name ="Number of Participants")]
+        public int? NumberOfParticipants { get; set; }
     }
 }
